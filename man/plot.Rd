@@ -9,7 +9,7 @@
 }
 
 \usage{
-\method{plot}{jointModel}(x, which = 1:4, caption = c("Residuals vs Fitted", 
+\method{plot}{jointModel}(x, which = 1:10, caption = c("Residuals vs Fitted", 
   "Normal Q-Q", "Marginal Survival", "Marginal Cumulative Hazard", 
   "Marginal log Cumulative Hazard", "Baseline Hazard", 
   "Cumulative Baseline Hazard", "Subject-specific Survival", 
